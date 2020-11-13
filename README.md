@@ -1,7 +1,7 @@
 # GCP Exams:
 ```
 ```
-[schedule][<img src="https://github.com/cgpeanut/gcp-engineer/blob/main/data/gcp-exams.png">]
+[schedule][(https://github.com/cgpeanut/gcp-engineer/blob/main/data/gcp-exams.png)]
 [reschhedule](https://www.webassessor.com/wa.do?page=defaultLogin)
 ```
 ```
@@ -10,4 +10,5 @@
 ```
 [status](https://wsr.pearsonvue.com/testtaker/registration/ExamRegistrationDetailPage/AWS?previousPage=previousToDashboard&clientCode=AWS&conversationId=2354921&regId=377495899)
 ```
+[schedule][<img src="https://github.com/cgpeanut/gcp-engineer/blob/main/data/gcp-exams.png">]
 ```
