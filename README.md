@@ -1,10 +1,7 @@
 # GCP Exams:
 ```
 ```
-<img src="https://github.com/cgpeanut/gcp-engineer/blob/main/data/gcp-exams.png">
-```
-```
-[reschedule](https://www.webassessor.com/wa.do?page=defaultLogin)
+[<img src="https://github.com/cgpeanut/gcp-engineer/blob/main/data/gcp-exams.png">]
 ```
 ```
 ## AWS Exam Case #: 05352556 
