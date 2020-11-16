@@ -57,5 +57,20 @@ Chapter 8: Basic Services Challenge Lab
     4. Quiz Google VCertified Associate Cloud Engineer 2020 - Basic Challenge Lab Quiz
     5. Basic Service Sample Practice Questions Breakdown
     6. Milestone: Standin on your Own.
-
-
+```
+```
+Chapter 9: Scaling
+    1. Managed Instances Groups (Lab)
+    2. Milestone: Robust Mental Model
+```
+```
+Chapter 10: Security
+    1. What is Security? (Data Flow)
+    2. IAM Breakdown - Resource Hierarchy (To which thing?)
+    3. IAM Breakdown - Permissions & Roles (Can do what?) 
+    4. IAM Breakdown - Members & Groups (Who?)
+    5. IAM Breakdown - Wrap-Up
+    6. Billking Account Control
+    7. Milestone: Secure All The Things!
+```
+```
