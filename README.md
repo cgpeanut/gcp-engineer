@@ -2,7 +2,8 @@
 ```
 ```
 AWS Exam Case #: 05352556 
-[status](https://wsr.pearsonvue.com/testtaker/registration/ExamRegistrationDetailPage/AWS?previousPage=previousToDashboard&clientCode=AWS&conversationId=2354921&regId=377495899)
+caseattachment@pearson.com.
+include Country name-Client name-Case number in the subject line.
 GCP-Engineer Exam Prep:
 ```
 Chapter 1:
@@ -36,3 +37,25 @@ Chapter 6: Account Setup
     7. Explore Clkoud Shell and Editor (Lab)
     8. Data Flows
     9. Update Course Lab Files (Lab)
+   10. Milestone: Open World
+```
+```
+Chapter 7: Basic Services
+    1. Google Cloud Storage (Lab)
+    2. GCS cia gsutil in Command Line (Lab)
+    3. Starting Our First GCE VM: Google Compute Engine Setup (Lab)
+    4. Run down on gcloud
+    5. GCE In ans Out (Lab)
+    6. GCE via Console (Lab)
+    7. Milestone Solid Foundation
+```
+```
+Chapter 8: Basic Services Challenge Lab
+    1. GCS & GCE Challenge Lab
+    2. GCS & GCE Challenge Lab Data Flow
+    3. GCS & GCE Challenge Lab Demno
+    4. Quiz Google VCertified Associate Cloud Engineer 2020 - Basic Challenge Lab Quiz
+    5. Basic Service Sample Practice Questions Breakdown
+    6. Milestone: Standin on your Own.
+
+
