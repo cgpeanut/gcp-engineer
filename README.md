@@ -11,9 +11,9 @@ Chapter 2: Cert Overview
 
 Chapter 3: Intro to Google Cloud Platform (GCP)
 ```
-    GCP Contet 
 ```
-    Products/Services as Building Blocks 
+    1. GCP Content 
+    2. Products/Services as Building Blocks 
+    3. Key Building Blocks 
 ```
-    Key Building Blocks 
 ```
